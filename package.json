@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alexkuz/react-bootstrap-breadcrumbs.git"
+    "url": "git+https://github.com/lphilippo-dws/react-bootstrap-breadcrumbs.git"
   },
   "keywords": [
     "react",
@@ -21,9 +21,9 @@
   "author": "Alexander <alexkuz@gmail.com> (http://kuzya.org/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/alexkuz/react-bootstrap-breadcrumbs/issues"
+    "url": "https://github.com/lphilippo-dws/react-bootstrap-breadcrumbs/issues"
   },
-  "homepage": "https://github.com/alexkuz/react-bootstrap-breadcrumbs#readme",
+  "homepage": "https://github.com/lphilippo-dws/react-bootstrap-breadcrumbs#readme",
   "peerDependencies": {
     "react": "^0.13.x",
     "react-router": "^1.0.0-beta3",
